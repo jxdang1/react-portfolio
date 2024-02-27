@@ -115,7 +115,7 @@ ul {
 }
 
 .profile-img {
-  height: 150px;
+  height: 300px;
 }
 
 img {
@@ -167,8 +167,10 @@ img {
 }
 
 .contact-list {
-  font-size: larger;
+  font-size: 20px;
   line-height: 1.5;
+  padding: 2px;
+  margin: 10px;
 }
 
 .contact-list a {
@@ -184,4 +186,9 @@ img {
   justify-content: center;
   text-align: center;
   font-size: 1.5rem;
+}
+
+.formInput p {
+  padding: 2px;
+  margin: 10px;
 }

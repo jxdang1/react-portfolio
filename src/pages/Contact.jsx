@@ -21,7 +21,7 @@ const Contact = () => {
 
     return (
       <div className="formInput">
-        <h2 >Contact</h2>
+        <h2>Contact</h2>
         <p>Feel free to contact me here!</p>
         <ul className='contact-list'>
           <li><a href="mailto:jxdang1@outlook.com"><i className="bi bi-envelope-at"></i> Email</a></li>
