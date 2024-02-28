@@ -7,7 +7,7 @@ const Portfolio = () => {
 
         <div className="flexContainer">
 
-          <Project name={'PWA J.A.T.E Text Editor'} 
+          <Project name={'J.A.T.E Text Editor'} 
             github={'https://github.com/jxdang1/pwa-text-editor'}
             deployed={'https://polar-river-77993-3eb0c051fa2e.herokuapp.com/'}
             imageURL={'./jate-ss.jpg'}

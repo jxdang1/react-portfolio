@@ -3,7 +3,7 @@ const Resume = () => {
       <div className="formInput">
         <h2>Resume</h2>
         <p>Download resume <a href='./Jennifer Dang - Resume.pdf'>here!</a></p>
-        <h3>Front End Proficiencies:</h3>
+        <h3>Front-End Languages:</h3>
         <ul>
           <li>HTML</li>
           <li>CSS</li>
@@ -11,7 +11,7 @@ const Resume = () => {
           <li>Bootstrap</li>
           <li>React</li>
         </ul>
-        <h3>Back End Proficiencies:</h3>
+        <h3>Back-End Languages</h3>
         <ul>
           <li>APIs</li>
           <li>Node</li>
