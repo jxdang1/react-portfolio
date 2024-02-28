@@ -6,7 +6,7 @@ In this project using Vite and React, I created a developer portfolio. Using rea
 
 ## Installation
 
-N/A
+Use npm start, then npm run build, then npm run dev. This will open the website as well if you are unable to get to the website. 
 
 ## Usage
 
