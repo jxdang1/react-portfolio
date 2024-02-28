@@ -84,6 +84,17 @@ nav a {
   font-weight: bolder;
 }
 
+footer {
+  text-align: center;
+  margin: auto;
+  color: white;
+  text-shadow: 1px 1px 1px #FFC0D3;
+}
+
+footer a {
+color: white;
+}
+
 main {
   background-color: var(--content-bg-color);
   width: 80vw;

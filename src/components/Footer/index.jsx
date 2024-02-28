@@ -1,7 +1,8 @@
 const Footer = () => {
     return (
-        <footer>
-        </footer>
+    <footer>
+        <a href="https://github.com/jxdang1">github</a>
+    </footer>
     );
   }
 
