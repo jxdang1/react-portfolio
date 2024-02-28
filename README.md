@@ -16,7 +16,7 @@ You may view the deployed project [here](https://jxdang1-react-portfolio.netlify
 
 ## Credits
 
-- KU Full Stack Web Development Bootcamp in class material
+- KU Full Stack Web Development Bootcamp in class material as well as help from Instructor and TAs
 - [React Transition Group with React Router Tutorial](https://reactcommunity.org/react-transition-group/with-react-router)
 
 ## License
