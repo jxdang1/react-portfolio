@@ -9,7 +9,7 @@ import Navbar from './components/Navbar';
 //styling
 import { CSSTransition, SwitchTransition } from 'react-transition-group'
 import './styles.css'
-
+// this was provided in react-community transition group URL provided in the README, integrated into code for animated pages
 function App() {
   const location = useLocation()
   const currentOutlet = useOutlet()
