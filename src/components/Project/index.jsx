@@ -1,3 +1,4 @@
+// objects will be updated when class is over to debug and get it to work more efficiently ( name, github, deployed, imageURL, description)
 function Project ({ name, github, deployed, imageURL, description }) {
     return (
         <div className="projectCard">
